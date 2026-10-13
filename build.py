@@ -45,7 +45,7 @@ if os.path.exists(docsPath):
 print(f'... Copy {EXPORT_PATH} to {docsPath}')
 shutil.copytree(EXPORT_PATH, docsPath)
 
-os.system('echo "hsl-n.nl" >docs/CNAME')
+#os.system('echo "hsl-n.nl" >docs/CNAME')
 
     # Open the local website on docs/, assuming that MAMP is running
     #os.system(u'/usr/bin/open %s/%s' % (site.name, site.id))
