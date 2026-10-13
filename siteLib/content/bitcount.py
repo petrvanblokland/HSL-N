@@ -18,7 +18,7 @@ CONTENT_UPGRADE = {
             and the rest of the Type Network production and marketing teams.</p>
         <p>I’d also like to thank the suppliers of tools: Frederik Berlaen, Tal Leming, Erik van Blokland, Just van Rossum, Alexandre Saumier Demers, 
             and Michiel Kauw-A-Tjoe.</p>
-        <p>Last but not least, thanks to my partners in Type Network (and more): David Berlow, Sam Berlow, and Roger Black.</p>
+        <p>Last but not least, thanks to my partners in Type Network (en meer...David Berlow, Sam Berlow, and Roger Black.</p>
         <p>Thanks to all for the creation of context, valuable input, support, and resources. —Petr van Blokland</p>
         """),
 
